@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Dataset (important – usually not pushed)
+Dataset/
+*.csv
+
+# Model & results (optional – ignore if large)
+model/
+results/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
