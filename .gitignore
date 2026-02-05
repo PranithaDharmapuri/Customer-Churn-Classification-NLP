@@ -5,9 +5,6 @@
 __pycache__/
 *.pyc
 
-# Dataset (important – usually not pushed)
-Dataset/
-*.csv
 
 # Model & results (optional – ignore if large)
 model/
